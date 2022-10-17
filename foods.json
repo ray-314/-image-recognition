@@ -1,0 +1,17 @@
+{"foods": [
+        {
+            "image_path": "image/test.jpg",
+            "comment": "test",
+            "food_category": "test",
+            "store_name": "test",
+            "price": 0
+        },
+        {
+            "image_path": "image/test1.jpg",
+            "comment": "test1",
+            "food_category": "test1",
+            "store_name": "test1",
+            "price": 0
+        }
+    ]
+}
